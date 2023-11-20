@@ -1,11 +1,9 @@
 +++
-title = 'My First Post'
+title = 'What`s a NAT?'
 date = 2023-11-19T11:57:11-08:00
 draft = true
 +++
 
-## Introduction
+## How NAT protects endpoints
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+**NAT**, or network address translation is a technology that protects endpoints in a network by 
